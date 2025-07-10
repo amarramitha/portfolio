@@ -2,9 +2,9 @@ import type { NextConfig } from "next";
 import type { Configuration } from "webpack";
 
 const nextConfig: NextConfig = {
-  output: 'export',
-  basePath: '/portfolio',
-  assetPrefix: '/portfolio/',
+  // output: 'export',
+  // basePath: '/portfolio',
+  // assetPrefix: '/portfolio/',
   trailingSlash: true,
   images: {
     unoptimized: true,
