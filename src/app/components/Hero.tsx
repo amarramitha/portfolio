@@ -60,7 +60,7 @@ export default function Hero() {
     >
       <div className="relative w-full h-full rounded-2xl overflow-hidden shadow-xl">
         <Image
-          src="/portfolio/assets/amarra.jpg"
+          src="/assets/amarra.jpg"
           alt="Amarra Mitha"
           fill
           className="object-cover rounded-2xl"
