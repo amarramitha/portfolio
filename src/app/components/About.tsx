@@ -23,7 +23,7 @@ export default function About() {
         className="relative w-full h-auto"
 >
         <Image
-          src="/portfolio/assets/amarra.jpg"
+          src="/assets/amarra.jpg"
           alt="About Me"
           width={600}
           height={400}

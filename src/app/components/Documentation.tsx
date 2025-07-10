@@ -12,27 +12,27 @@ const docs = [
   {
     title: "Independence Day Event – Internship Experience",
     date: "August 2024",
-    image: "/portfolio/assets/event.jpg",
+    image: "/assets/event.jpg",
   },
   {
     title: "Rector Cup PKM Competition",
     date: "September 2024",
-    image: "/portfolio/assets/pkm.jpg",
+    image: "/assets/pkm.jpg",
   },
   {
     title: "Sharing & Learning with HIMA ILKOM UNNES",
     date: "August 2023",
-    image: "/portfolio/assets/stuban.jpg",
+    image: "/assets/stuban.jpg",
   },
   {
     title: "Festival Teknologi Jawa Tengah – HIMA Delegation",
     date: "September 2023",
-    image: "/portfolio/assets/permi.jpg",
+    image: "/assets/permi.jpg",
   },
   {
     title: "Event Committee – Informatics Championship",
     date: "Oktober 2023",
-    image: "/portfolio/assets/ic.jpg",
+    image: "/assets/ic.jpg",
   }
   
 ];

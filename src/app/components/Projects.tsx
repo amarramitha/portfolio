@@ -5,31 +5,31 @@ import Image from "next/image";
 const projects = [
   {
     title: "Dearie Diary",
-    image: "/portfolio/assets/project1.jpg",
+    image: "/assets/project1.jpg",
     desc: "A mobile diary app that allows users to write, edit, and manage personal journal entries securely. Built using Flutter for Android.",
     link: "https://github.com/amarramitha/deariediary",
   },
   {
     title: "KonserKita",
-    image: "/portfolio/assets/project3.jpg",
+    image: "/assets/project3.jpg",
     desc: "A website for purchasing concert tickets online with category-based ticket options (e.g., VIP, Regular) and integrated online payment. Built using Laravel and Tailwind",
     link: "https://github.com/amarramitha/KonserKita-ProyekPemweb",
   },
   {
     title: "E-Pinjam - Intership",
-    image: "/portfolio/assets/project2.jpg",
+    image: "/assets/project2.jpg",
     desc: "A vehicle booking website developed during my internship at a local government office. I was responsible for developing the admin section of the booking module using CodeIgniter 3 and Bootstrap.",
     link: "https://sepak.diskominfo.jatengprov.go.id/sekrup/",
   },
   {
     title: "Pharmacy Stock",
-    image: "/portfolio/assets/project4.jpg",
+    image: "/assets/project4.jpg",
     desc: "A CRUD-based inventory system built with Laravel to help pharmacists manage medicine stock efficiently, including expiration tracking and stock monitoring.",
     link: "https://github.com/amarramitha/pharmacy_stock",
   },
   {
     title: "Personal Portfolio Website",
-    image: "/portfolio/assets/project5.jpg",
+    image: "/assets/project5.jpg",
     desc: "A personal portfolio website built with Next.js and Tailwind CSS, featuring animations and responsive sections to showcase my projects, skills, and documentation.",
     link: "https://amarramitha.github.io/portfolio/",
   },

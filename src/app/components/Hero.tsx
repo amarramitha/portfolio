@@ -35,7 +35,7 @@ export default function Hero() {
 
       <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
         <a
-          href="/portfolio/Amarramitha_cv.pdf"
+          href="/Amarramitha_cv.pdf"
           download
           className="bg-[#FBD2E0] text-white px-6 py-3 rounded-lg font-semibold hover:bg-pink-400 transition-all shadow-md text-center w-full sm:w-auto"
         >
