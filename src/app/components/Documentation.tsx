@@ -7,7 +7,7 @@ const docs = [
   {
     title: "Internship Certificate",
     date: "July 2024",
-    image: "/portfolio/assets/magang.jpg",
+    image: "/assets/magang.jpg",
   },
   {
     title: "Independence Day Event – Internship Experience",
