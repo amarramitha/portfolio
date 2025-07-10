@@ -1,11 +1,10 @@
-
 import About from "@/app/components/About";
 import Hero from "@/app/components/Hero";
-import Skills from "./components/Skills";
-import Projects from "./components/Projects";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
-import DocumentationPage from "./components/Documentation";
+import Skills from "@/app/components/Skills";
+import Projects from "@/app/components/Projects";
+import DocumentationPage from "@/app/components/Documentation";
+import Contact from "@/app/components/Contact";
+import Footer from "@/app/components/Footer";
 
 export default function Home() {
   return (
