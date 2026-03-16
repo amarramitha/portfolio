@@ -29,7 +29,7 @@ export default function Hero() {
       </h3>
 
       <p className="text-gray-600 mb-8 max-w-md sm:max-w-xl mx-auto lg:mx-0 text-sm sm:text-base leading-relaxed">
-        Informatics student passionate about web development. Skilled in Laravel, JavaScript,
+        Informatics graduate passionate about web development. Skilled in Laravel, JavaScript,
         and Tailwind CSS. Focused on building responsive and user-friendly web solutions.
       </p>
 
