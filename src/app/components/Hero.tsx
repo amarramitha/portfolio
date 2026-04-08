@@ -30,9 +30,9 @@ export default function Hero() {
             Amarramitha Poodja Thantawi
           </h1>
 
-          <h3 className="text-lg text-blue-400 font-semibold mb-6">
+          {/* <h3 className="text-lg text-blue-400 font-semibold mb-6">
             QA Engineer • Web Developer
-          </h3>
+          </h3> */}
 
           <p className="text-gray-300 mb-8 max-w-xl mx-auto lg:mx-0 leading-relaxed">
             I build and test web applications with a focus on reliability and user experience. 
